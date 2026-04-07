@@ -1,6 +1,7 @@
 Data analysis case study for QuickBite, a Nairobi-based food delivery startup operating ghost kitchens across three neighborhoods. I Analyzed over 6 months data to assess expansion viability, resolve an internal leadership debate on location performance and deliver data-driven menu optimization recommendations
 
 **Background**
+
 QuickBite launched ghost kitchens (delivery-only locations) in three Nairobi neighborhoods; Kilimani, Westlands and Eastleigh. After 6 months, the leadership team was split:
 - The CFO wanted to shut down Eastleigh since it has the lowest order volume of the three
 - The Eastleigh GM argued customers loved them and asked for more time
@@ -18,4 +19,5 @@ QuickBite launched ghost kitchens (delivery-only locations) in three Nairobi nei
 - competitor_data: Competitive landscape per area
 
 **Key Insights**
+
 Q1: Should QuickBite Expand?
