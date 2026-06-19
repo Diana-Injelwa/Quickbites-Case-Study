@@ -155,3 +155,14 @@ Rain reduces daily orders and revenue by ~27% and pushes delivery times up by ~3
 1. **Expand to low-cost, low-competition neighborhoods:** the Eastleigh profile (low rent, few delivery-only competitors, underserved market) is the template for profitable expansion.
 2. **Keep Eastleigh open:** It is the 2nd most profitable kitchen, the only one growing consistently, and has the highest customer satisfaction of the three.
 3. **Push high-efficiency menu items and test removing underperformers:** Stars like Samosa and Mandazi offer the best margin-per-minute; Drags like Matoke & Beef and Githeri Special slow the kitchen down for little return.
+
+---
+
+**Tools Used**
+- Python (Pandas, NumPy, Matplotlib)
+- Excel
+- PowerPoint
+
+---
+
+Happy reading, data nerds!
