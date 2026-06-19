@@ -128,3 +128,30 @@ Each item is scored on two dimensions: how often it's ordered (popularity) and h
 1. **Push Samosa & Mandazi as add-ons at checkout:** Both are Stars with 70–73% margins and the fastest prep times on the menu (8–10 min). A "add to any order for KES 150" prompt would be minimal kitchen impact for a pure margin boost.
 2. **Launch a Nyama Choma Platter meal deal in Eastleigh:**  The highest-margin item on the menu (KES 500/order) but heavily underrepresented in Eastleigh (418 orders) vs Kilimani (2,887) and Westlands (2,386). Bundling with a side at a slight discount could drive trial and unlock significant untapped revenue.
 3. **Test removing Matoke & Beef and Githeri Special:** Both are Drags: bottom 4 in popularity and bottom 2 in prep efficiency (KES 10.4–10.5/min). Remove for one month and measure impact on total orders and kitchen throughput. Freed prep time can be reallocated to high-demand items.
+
+---
+
+**Weather Impact on Operations**
+
+Rain has a consistent and significant effect across all three locations.
+
+| Location | Orders Drop | Revenue Drop | Delivery Time Increase |
+|----------|------------|--------------|----------------------|
+| Eastleigh | -27.2% | -25.8% | +33.4% (52 → 70 min) |
+| Kilimani | -28.4% | -28.0% | +27.3% (65 → 83 min) |
+| Westlands | -28.1% | -28.1% | +29.1% (60 → 78 min) |
+
+Rain reduces daily orders and revenue by ~27% and pushes delivery times up by ~30% across the board. Notably, Eastleigh is the most weather-resilient location, its rainy-day delivery time (69.5 min) is still faster than Kilimani's dry-day average (64.9 min).
+
+**Recommendations:**
+1. Run "rainy day" promotions triggered by weather forecasts to offset the ~27% order drop.
+2. Staff extra delivery riders on forecast rain days to protect delivery times and customer ratings.
+3. Consider dynamic delivery fees on rainy days to cover the increased delivery costs.
+
+---
+
+**Key Takeaways**
+
+1. **Expand to low-cost, low-competition neighborhoods:** the Eastleigh profile (low rent, few delivery-only competitors, underserved market) is the template for profitable expansion.
+2. **Keep Eastleigh open:** It is the 2nd most profitable kitchen, the only one growing consistently, and has the highest customer satisfaction of the three.
+3. **Push high-efficiency menu items and test removing underperformers:** Stars like Samosa and Mandazi offer the best margin-per-minute; Drags like Matoke & Beef and Githeri Special slow the kitchen down for little return.
