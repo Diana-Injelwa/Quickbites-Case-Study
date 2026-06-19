@@ -100,3 +100,31 @@ Westlands sits just 14% above breakeven — the most operationally vulnerable ki
 1. Keep Eastleigh open and give the GM 3 more months with a clear milestone: reach 1,300 orders/month by month 9. The current trajectory (922 → 1,270) makes this achievable.
 2. Invest modestly in local marketing. Eastleigh's growth has been entirely organic against only 3 delivery competitors. A small push could accelerate an already positive trend.
 3. If cuts are needed, scrutinize Westlands first, it has the highest fixed costs (KES 455K/mo), most competition (12 delivery-only), thinnest net profit (KES 387K), and the smallest breakeven buffer of the three.
+
+---
+
+**Q3: What Menu Optimizations Should They Test?**
+
+**Menu Item Performance Matrix**
+
+Each item is scored on two dimensions: how often it's ordered (popularity) and how much margin it generates per minute of prep time (kitchen efficiency).
+
+| Item | Orders | Margin | Margin % | Prep Time | KES/min | Tier |
+|------|--------|--------|----------|-----------|---------|------|
+| Nyama Choma Platter | 5,691 | KES 500 | 58.8% | 35 min | 14.3 | ⭐ Star |
+| Samosa (6pc) | 4,768 | KES 140 | 70.0% | 10 min | 14.0 | ⭐ Star |
+| Mandazi (4pc) | 2,752 | KES 110 | 73.3% | 8 min | 13.8 | ⭐ Star |
+| Chicken Biriyani | 7,112 | KES 330 | 60.0% | 30 min | 11.0 | 🟡 Opportunity |
+| Pilau | 5,228 | KES 270 | 60.0% | 25 min | 10.8 | 🟡 Opportunity |
+| Ugali & Fish | 1,285 | KES 300 | 60.0% | 20 min | 15.0 | 🟡 Opportunity |
+| Bhajia | 1,295 | KES 150 | 68.2% | 12 min | 12.5 | 🟡 Opportunity |
+| Chips Masala | 1,271 | KES 170 | 68.0% | 15 min | 11.3 | 🟡 Opportunity |
+| Githeri Special | 1,304 | KES 230 | 65.7% | 22 min | 10.5 | 🔴 Drag |
+| Matoke & Beef | 1,258 | KES 290 | 60.4% | 28 min | 10.4 | 🔴 Drag |
+
+*Star = High popularity + High efficiency | Opportunity = Room to improve | Drag = Low popularity + Low efficiency*
+
+**3 Optimizations to Test:**
+1. **Push Samosa & Mandazi as add-ons at checkout:** Both are Stars with 70–73% margins and the fastest prep times on the menu (8–10 min). A "add to any order for KES 150" prompt would be minimal kitchen impact for a pure margin boost.
+2. **Launch a Nyama Choma Platter meal deal in Eastleigh:**  The highest-margin item on the menu (KES 500/order) but heavily underrepresented in Eastleigh (418 orders) vs Kilimani (2,887) and Westlands (2,386). Bundling with a side at a slight discount could drive trial and unlock significant untapped revenue.
+3. **Test removing Matoke & Beef and Githeri Special:** Both are Drags: bottom 4 in popularity and bottom 2 in prep efficiency (KES 10.4–10.5/min). Remove for one month and measure impact on total orders and kitchen throughput. Freed prep time can be reallocated to high-demand items.
